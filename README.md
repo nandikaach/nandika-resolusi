@@ -1,2 +1,2 @@
 # nandika-resolusi
-repository unuk menyimpan rencana saya kedepannya
+repository untuk menyimpan rencana saya kedepannya
